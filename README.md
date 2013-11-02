@@ -1,4 +1,4 @@
-SmartFarn
+SmartFarm
 =========
 
 SmartFarm System
