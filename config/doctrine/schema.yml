@@ -1,0 +1,31 @@
+Log:
+  connection: doctrine
+  tableName: log
+  columns:
+    thetime:
+      type: timestamp(25)
+      fixed: false
+      unsigned: false
+      primary: true
+      autoincrement: false
+    tair:
+      type: integer(4)
+      fixed: false
+      unsigned: false
+      primary: false
+      notnull: true
+      autoincrement: false
+    rh:
+      type: integer(4)
+      fixed: false
+      unsigned: false
+      primary: false
+      notnull: true
+      autoincrement: false
+    text:
+      type: integer(4)
+      fixed: false
+      unsigned: false
+      primary: false
+      notnull: true
+      autoincrement: false

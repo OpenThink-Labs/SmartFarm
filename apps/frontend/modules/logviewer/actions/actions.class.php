@@ -1,12 +1,10 @@
 <?php
-
 /**
  * logviewer actions.
  *
- * @package    smartfarm
+ * @package    apps.frontend.modules
  * @subpackage logviewer
- * @author     Your name here
- * @version    SVN: $Id: actions.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
+ * @author     Wildan Maulana, OpenThink Labs
  */
 class logviewerActions extends sfActions
 {
@@ -17,6 +15,5 @@ class logviewerActions extends sfActions
   */
   public function executeIndex(sfWebRequest $request)
   {
-    $this->forward('default', 'module');
   }
 }
