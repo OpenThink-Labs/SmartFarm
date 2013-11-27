@@ -1,6 +1,4 @@
 SmartFarm
 =========
 
-SmartFarm System
-
-- http://smartfarm.openthinklabs.com/
+SmartFarm System, http://smartfarm.openthinklabs.com/
